@@ -1,0 +1,362 @@
+ [
+  {
+    "id": 1,
+    "name": "Салат Цезар",
+    "image": "/menu/photos/Салат-Цезар.webp",
+    "quantity": "250 г",
+    "price": 150,
+    "subCategory": "Салати",
+    "category": "Страви"
+  },
+  {
+    "id": 2,
+    "name": "Борщ український",
+    "image": "/menu/photos/Борщ український.webp",
+    "quantity": "300 г",
+    "price": 120,
+    "subCategory": "Супи",
+    "category": "Страви"
+  },
+  {
+    "id": 3,
+    "name": "Курячий шашлик",
+    "image": "/menu/photos/Курячий шашлик.webp",
+    "quantity": "200 г",
+    "price": 200,
+    "subCategory": "М'ясні страви",
+    "category": "Страви"
+  },
+  {
+    "id": 4,
+    "name": "Смажений лосось",
+    "image": "/menu/photos/Смажений лосось.webp",
+    "quantity": "200 г",
+    "price": 350,
+    "subCategory": "Рибні страви",
+    "category": "Страви"
+  },
+  {
+    "id": 5,
+    "name": "Паста Карбонара",
+    "image": "/menu/photos/Паста-Карбонара.webp",
+    "quantity": "300 г",
+    "price": 180,
+    "subCategory": "Паста",
+    "category": "Страви"
+  },
+  {
+    "id": 6,
+    "name": "Різотто з грибами",
+    "image": "/menu/photos/Різотто з грибами.webp",
+    "quantity": "250 г",
+    "price": 170,
+    "subCategory": "Основні страви",
+    "category": "Страви"
+  },
+  {
+    "id": 7,
+    "name": "Вареники з картоплею",
+    "image": "/menu/photos/Вареники з картоплею.webp",
+    "quantity": "250 г",
+    "price": 100,
+    "subCategory": "Основні страви",
+    "category": "Страви"
+  },
+  {
+    "id": 8,
+    "name": "Медальйони зі свинини",
+    "image": "/menu/photos/Медальоны-из-свинины-на-сковороде-Совет-да-Еда.webp",
+    "quantity": "200 г",
+    "price": 220,
+    "subCategory": "М'ясні страви",
+    "category": "Страви"
+  },
+  {
+    "id": 9,
+    "name": "Олів'є",
+    "image": "/menu/photos/Олів'є.webp",
+    "quantity": "250 г",
+    "price": 140,
+    "subCategory": "Салати",
+    "category": "Страви"
+  },
+  {
+    "id": 10,
+    "name": "Біфштекс з яйцем",
+    "image": "/menu/photos/Біфштекс-з-яйцем.webp",
+    "quantity": "250 г",
+    "price": 240,
+    "subCategory": "М'ясні страви",
+    "category": "Страви"
+  },
+  {
+    "id": 11,
+    "name": "Пельмені з м'ясом",
+    "image": "/menu/photos/Пельмені з м'ясом.webp",
+    "quantity": "250 г",
+    "price": 130,
+    "subCategory": "Основні страви",
+    "category": "Страви"
+  },
+  {
+    "id": 12,
+    "name": "Курячий бульйон",
+    "image": "/menu/photos/Курячий бульйон.webp",
+    "quantity": "300 г",
+    "price": 90,
+    "subCategory": "Супи",
+    "category": "Страви"
+  },
+  {
+    "id": 13,
+    "name": "Стейк рибай",
+    "image": "/menu/photos/Стейк рибай.webp",
+    "quantity": "300 г",
+    "price": 450,
+    "subCategory": "М'ясні страви",
+    "category": "Страви"
+  },
+  {
+    "id": 14,
+    "name": "Риба на грилі",
+    "image": "/menu/photos/Риба на грилі.webp",
+    "quantity": "250 г",
+    "price": 320,
+    "subCategory": "Рибні страви",
+    "category": "Страви"
+  },
+  {
+    "id": 15,
+    "name": "Плов з куркою",
+    "image": "/menu/photos/Плов з куркою.webp",
+    "quantity": "300 г",
+    "price": 160,
+    "subCategory": "Основні страви",
+    "category": "Страви"
+  },
+  {
+    "id": 16,
+    "name": "Тушкована капуста",
+    "image": "/menu/photos/Тушкована капуста.webp",
+    "quantity": "250 г",
+    "price": 80,
+    "subCategory": "Гарніри",
+    "category": "Страви"
+  },
+  {
+    "id": 17,
+    "name": "Картопля фрі",
+    "image": "/menu/photos/Картопля фрі.webp",
+    "quantity": "200 г",
+    "price": 70,
+    "subCategory": "Гарніри",
+    "category": "Страви"
+  },
+  {
+    "id": 18,
+    "name": "Гречка з грибами",
+    "image": "/menu/photos/Гречка з грибами.webp",
+    "quantity": "250 г",
+    "price": 100,
+    "subCategory": "Гарніри",
+    "category": "Страви"
+  },
+  {
+    "id": 19,
+    "name": "Суп з морепродуктів",
+    "image": "/menu/photos/Суп з морепродуктів.webp",
+    "quantity": "300 г",
+    "price": 180,
+    "subCategory": "Супи",
+    "category": "Страви"
+  },
+  {
+    "id": 20,
+    "name": "Омлет з овочами",
+    "image": "/menu/photos/Омлет-з-овочами.webp",
+    "quantity": "250 г",
+    "price": 90,
+    "subCategory": "Сніданки",
+    "category": "Страви"
+  },
+  {
+    "id": 21,
+    "name": "Чізкейк",
+    "image": "/menu/photos/Чізкейк.webp",
+    "quantity": "150 г",
+    "price": 120,
+    "subCategory": "Торти",
+    "category": "Десерти"
+  },
+  {
+    "id": 25,
+    "name": "Морозиво з фруктами",
+    "image": "/menu/photos/Морозиво з фруктами.webp",
+    "quantity": "150 г",
+    "price": 80,
+    "subCategory": "Морозиво",
+    "category": "Десерти"
+  },
+  {
+    "id": 22,
+    "name": "Тірамісу",
+    "image": "/menu/photos/Тірамісу.webp",
+    "quantity": "150 г",
+    "price": 130,
+    "subCategory": "Інше",
+    "category": "Десерти"
+  },
+  {
+    "id": 23,
+    "name": "Шоколадний фондан",
+    "image": "/menu/photos/Шоколадний-фондан.webp",
+    "quantity": "120 г",
+    "price": 140,
+    "subCategory": "Інше",
+    "category": "Десерти"
+  },
+  {
+    "id": 24,
+    "name": "Яблучний штрудель",
+    "image": "/menu/photos/Яблучний-штрудель.webp",
+    "quantity": "200 г",
+    "price": 110,
+    "subCategory": "Інше",
+    "category": "Десерти"
+  },
+  {
+    "id": 26,
+    "name": "Пана-кота",
+    "image": "/menu/photos/Пана-кота.webp",
+    "quantity": "150 г",
+    "price": 100,
+    "subCategory": "Інше",
+    "category": "Десерти"
+  },
+  {
+    "id": 27,
+    "name": "Наполеон",
+    "image": "/menu/photos/Наполеон.webp",
+    "quantity": "180 г",
+    "price": 130,
+    "subCategory": "Торти",
+    "category": "Десерти"
+  },
+  {
+    "id": 28,
+    "name": "Шоколадний торт",
+    "image": "/menu/photos/Шоколадний торт.webp",
+    "quantity": "150 г",
+    "price": 150,
+    "subCategory": "Торти",
+    "category": "Десерти"
+  },
+  {
+    "id": 29,
+    "name": "Пиріг з вишнею",
+    "image": "/menu/photos/Пиріг з вишнею.webp",
+    "quantity": "200 г",
+    "price": 120,
+    "subCategory": "Інше",
+    "category": "Десерти"
+  },
+  {
+    "id": 30,
+    "name": "Фруктовий салат",
+    "image": "/menu/photos/Фруктовий салат.webp",
+    "quantity": "200 г",
+    "price": 90,
+    "subCategory": "Інше",
+    "category": "Десерти"
+  },
+  {
+    "id": 31,
+    "name": "Чай чорний",
+    "image": "/menu/photos/Чай чорний.webp",
+    "quantity": "250 мл",
+    "price": 30,
+    "subCategory": "Безалкогольні напої",
+    "category": "Напої"
+  },
+  {
+    "id": 32,
+    "name": "Кава еспресо",
+    "image": "/menu/photos/Кава еспресо.webp",
+    "quantity": "60 мл",
+    "price": 40,
+    "subCategory": "Безалкогольні напої",
+    "category": "Напої"
+  },
+  {
+    "id": 33,
+    "name": "Капучино",
+    "image": "/menu/photos/Капучино.webp",
+    "quantity": "250 мл",
+    "price": 50,
+    "subCategory": "Безалкогольні напої",
+    "category": "Напої"
+  },
+  {
+    "id": 34,
+    "name": "Лимонад",
+    "image": "/menu/photos/Лимонад.webp",
+    "quantity": "300 мл",
+    "price": 60,
+    "subCategory": "Безалкогольні напої",
+    "category": "Напої"
+  },
+  {
+    "id": 35,
+    "name": "Морс",
+    "image": "/menu/photos/Морс.webp",
+    "quantity": "300 мл",
+    "price": 50,
+    "subCategory": "Безалкогольні напої",
+    "category": "Напої"
+  },
+  {
+    "id": 36,
+    "name": "Сік апельсиновий",
+    "image": "/menu/photos/Сік апельсиновий.webp",
+    "quantity": "250 мл",
+    "price": 50,
+    "subCategory": "Безалкогольні напої",
+    "category": "Напої"
+  },
+  {
+    "id": 37,
+    "name": "Коктейль Мохіто",
+    "image": "/menu/photos/Коктейль Мохіто.webp",
+    "quantity": "300 мл",
+    "price": 120,
+    "subCategory": "Алкогольні напої",
+    "category": "Напої"
+  },
+  {
+    "id": 38,
+    "name": "Пиво світле",
+    "image": "/menu/photos/Пиво-світле.webp",
+    "quantity": "500 мл",
+    "price": 70,
+    "subCategory": "Алкогольні напої",
+    "category": "Напої"
+  },
+  {
+    "id": 39,
+    "name": "Вино біле",
+    "image": "/menu/photos/Вино біле.webp",
+    "quantity": "150 мл",
+    "price": 100,
+    "subCategory": "Алкогольні напої",
+    "category": "Напої"
+  },
+  {
+    "id": 40,
+    "name": "Коньяк",
+    "image": "/menu/photos/Коньяк.webp",
+    "quantity": "50 мл",
+    "price": 150,
+    "subCategory": "Алкогольні напої",
+    "category": "Напої"
+  }
+]
