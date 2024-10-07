@@ -39,7 +39,7 @@ header{
     display: flex;
     align-items: center;
     gap: 20px;
-    width: 100%;
+    width: fit-content;
     max-width: 950px;
     margin: 30px auto;
     overflow-y: auto;
@@ -64,6 +64,8 @@ header{
     white-space: nowrap;
     display: block;
     width: 150px;
+    margin: 0 20px;
+    text-align: center;
 }
 
 .categories a.active{
@@ -134,6 +136,12 @@ header{
     align-items: flex-end;
 }
 
+@media all and (max-width: 1000px){
+    .categories{
+        width: 100%;
+    }
+}
+
 @media all and (max-width: 580px){
     .products h2{
         color: white;
@@ -163,7 +171,7 @@ header{
     .pc-link{
         display: none;
     }
-
+    
     .mobile-link figure{
         height: 4px;
         background: linear-gradient(0deg, #ffc100, #ffe184);
